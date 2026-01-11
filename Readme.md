@@ -14,7 +14,7 @@ First, you need to have Python installed on your computer. Then follow the comma
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/Md-Minhaj-darkness/Ip-To-Domain.git
 cd your-repo-name
 ```
 
@@ -32,4 +32,22 @@ You can use this script in two ways:
 
 ### 1. To check a specific IP:
 ```bash
+
 python script_name.py -i 8.8.8.8
+
+2. To check multiple IPs from a file:
+First, write one IP per line in a text file (e.g. ips.txt). Then enter the following command:
+
+Bash
+
+python script_name.py -m ips.txt
+Example Output
+Plaintext
+
+IP: 8.8.8.8 -> Domains: dns.google.
+IP: 1.1.1.1 -> Domains: one.one.one.one.
+Contributing
+If you want to add a new feature to this tool or find a bug, feel free to open a Pull Request.
+
+License
+It is open source under the MIT License.
