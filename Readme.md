@@ -33,14 +33,14 @@ You can use this script in two ways:
 ### 1. To check a specific IP:
 ```bash
 
-python script_name.py -i 8.8.8.8
+python Ip-To-Domain.py -i 8.8.8.8
 
 2. To check multiple IPs from a file:
 First, write one IP per line in a text file (e.g. ips.txt). Then enter the following command:
 
 Bash
 
-python script_name.py -m ips.txt
+python Ip-To-Domain.py -m ips.txt
 Example Output
 Plaintext
 
@@ -51,4 +51,5 @@ If you want to add a new feature to this tool or find a bug, feel free to open a
 
 License
 It is open source under the MIT License.
+
 
