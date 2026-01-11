@@ -15,7 +15,7 @@ First, you need to have Python installed on your computer. Then follow the comma
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/Md-Minhaj-darkness/Ip-To-Domain.git
-cd your-repo-name
+cd Ip-To-Domain
 ```
 
 2. **Install the required libraries:**
@@ -51,3 +51,4 @@ If you want to add a new feature to this tool or find a bug, feel free to open a
 
 License
 It is open source under the MIT License.
+
