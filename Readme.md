@@ -46,10 +46,9 @@ Plaintext
 
 IP: 8.8.8.8 -> Domains: dns.google.
 IP: 1.1.1.1 -> Domains: one.one.one.one.
-Contributing
-If you want to add a new feature to this tool or find a bug, feel free to open a Pull Request.
 
 License
 It is open source under the MIT License.
+
 
 
